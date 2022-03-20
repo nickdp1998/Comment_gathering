@@ -21,3 +21,9 @@ Google Review
 
     - Il est déconseillé d'aller chercher un trop grand nombre de commentaires
       (> 1000) à cause des temps de chargement
+      
+TripAdvisor
+
+    - Très peu développé et restrictif, les pages sont différentes selon les
+      catégorie. Dans l'état actuel, le programme pour uniquement gérer les
+      restaurant sur le site en français (https://fr.tripadvisor.ca/)
