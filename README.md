@@ -25,5 +25,5 @@ Google Review
 TripAdvisor
 
     - Très peu développé et restrictif, les pages sont différentes selon les
-      catégorie. Dans l'état actuel, le programme pour uniquement gérer les
+      catégorie. Dans l'état actuel, le programme peut uniquement gérer les
       restaurant sur le site en français (https://fr.tripadvisor.ca/)
