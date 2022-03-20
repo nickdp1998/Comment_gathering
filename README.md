@@ -1,5 +1,5 @@
 # Comment_gathering
-Projet dans le cadre du cours génie logiciel.<br />
+Projet personnel pour aider un étudiant au doctorat.<br />
 Le but de ce projet est d'automatiser la collecte d'avis sur certains sites.
 
 # Guide d'utilisation 
