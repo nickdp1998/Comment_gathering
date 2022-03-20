@@ -3,8 +3,9 @@ Projet dans le cadre du cours génie logiciel.<br />
 Le but de ce projet est d'automatiser la collecte d'avis sur certains sites.
 
 # Guide d'utilisation 
-Notes générales<br />
-    - Pour arrêter le programme, entrez 'STOP' au lieu d'entrer une recherche 
+Notes générales
+
+    1. Pour arrêter le programme, entrez 'STOP' au lieu d'entrer une recherche 
 
 Expedia
 
