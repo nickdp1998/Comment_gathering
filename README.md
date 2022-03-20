@@ -5,7 +5,9 @@ Le but de ce projet est d'automatiser la collecte d'avis sur certains sites.
 # Guide d'utilisation 
 Notes générales
 
-    - Pour arrêter le programme, entrez 'STOP' au lieu d'entrer une recherche 
+    - Pour arrêter le programme, entrez 'STOP' au lieu d'entrer une recherche
+    - Librairie utilisée : selenium
+    - Installation nécessaire : ChromeDriver
 
 Expedia
 
