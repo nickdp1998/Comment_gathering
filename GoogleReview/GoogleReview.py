@@ -44,7 +44,7 @@ while True:
         break
 
     # Ouverture du fichier pour l'écriture
-    f = open('GoogleReview/' + file, "w", encoding='utf-8')
+    f = open(file, "w", encoding='utf-8')
 
     #Chargement du nombre de commentaire désiré
     all_comments = driver.find_elements_by_xpath('//*[@jscontroller="fIQYlf"]')
